@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=S1
+Added Pin To Net: NetName=SW2 Pin=U1-1
+Added Pin To Net: NetName=SW2 Pin=U1-1
+Added Pin To Net: NetName=RESET Pin=U1-11
+Added Pin To Net: NetName=RESET Pin=U1-11
+Change Net Name : Old Net Name=NetR1_1 New Net Name=SCL
+Change Net Name : Old Net Name=NetR2_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NRF_RX
+Change Net Name : Old Net Name=NetR5_2 New Net Name=ESP_TXSDA
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NRF_TX
+Change Net Name : Old Net Name=NetR6_2 New Net Name=ESP_RX
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NRF_CTS
+Change Net Name : Old Net Name=NetR7_2 New Net Name=ESP_RTS
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NRF_RTS
+Change Net Name : Old Net Name=NetR8_2 New Net Name=ESP_CTS
+Change Net Name : Old Net Name=NetU1_2 New Net Name=SWCLK
+Change Net Name : Old Net Name=NetU1_3 New Net Name=SWDIO
+Added Member To Class: ClassName=Tag Member=Component R4 RC1005F103CS
+Added Member To Class: ClassName=Tag Member=Component S1 PTS815 SJK 250 SMTR LFS

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=ESP_TXSDA Pin=R5-2
+Added Pin To Net: NetName=ESP_TX Pin=R5-2
+Added Net: Name=ESP_TX

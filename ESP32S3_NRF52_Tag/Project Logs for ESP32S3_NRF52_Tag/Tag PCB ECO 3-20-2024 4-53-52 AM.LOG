@@ -1,0 +1,7 @@
+Added Component: Designator=R5(RC0402N_YAG)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRF_RX Pin=R5-1
+Added Pin To Net: NetName=ESP_TX Pin=R5-2
+Added Member To Class: ClassName=Tag Member=Component R5 0ohm

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=ESP_TX Pin=-
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=RESET NewDesignator=S1
+Added Member To Class: ClassName=Tag Member=Component C1 CL05B104KP5NNNC
+Added Member To Class: ClassName=Tag Member=Component C2 CL05B104KP5NNNC
+Added Member To Class: ClassName=Tag Member=Component C3 CL05B104KP5NNNC
+Added Member To Class: ClassName=Tag Member=Component C5 CL05B104KP5NNNC
+Added Member To Class: ClassName=Tag Member=Component C6 CL05B104KP5NNNC
+Added Member To Class: ClassName=Tag Member=Component R1 RC1005F103CS
+Added Member To Class: ClassName=Tag Member=Component R2 RC1005F103CS
+Added Member To Class: ClassName=Tag Member=Component R3 RC1005F103CS
+Added Member To Class: ClassName=Tag Member=Component R4 RC1005F103CS
+Added Member To Class: ClassName=Tag Member=Component R5 0ohm
+Added Member To Class: ClassName=Tag Member=Component R6 0ohm
+Added Member To Class: ClassName=Tag Member=Component R7 0ohm
+Added Member To Class: ClassName=Tag Member=Component R8 0ohm
+Added Member To Class: ClassName=Tag Member=Component U2 BM833
+Added Member To Class: ClassName=Tag Member=Component U4 BME680
